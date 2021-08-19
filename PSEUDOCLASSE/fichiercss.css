@@ -1,0 +1,29 @@
+h1 {
+    color :blue;      
+    font-family: fantasy;
+}
+
+h1:hover{
+    color : green
+    }
+
+p:active{
+        background: grey
+        }
+    
+a:link {
+    color :orange;
+    font-family:cursive;
+}
+
+a:visited {
+    color : lightgrey ;
+}
+
+img:hover{
+    display: none;
+  }
+
+.police {
+    font-family: cursive;
+}

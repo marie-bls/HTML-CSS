@@ -1,0 +1,14 @@
+h1 {
+    text-shadow: 10px -10px 2px rgb(179, 3, 164) ;
+}
+
+.encadre{
+    box-shadow: 0px 0px 20px red;
+}
+.vert{
+        box-shadow: -20px 6px 10px green
+}
+.degrad{
+    background-image: linear-gradient(to left bottom, blue, pink);
+   position : absolute
+}

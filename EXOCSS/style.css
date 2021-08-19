@@ -1,0 +1,31 @@
+h1{
+    color : green;
+    text-align : center;
+    font-size: 50px;
+}
+h3{
+    color:blue;
+    font-size: 30px;
+}
+.p {
+    background : grey;
+}
+strong{
+    color:yellowgreen
+}
+em {
+    font-style: normal;
+    text-decoration: underline;
+    font-size: 25px;
+    color:orange
+}
+
+.r {
+    background: pink;
+}
+
+#titre2 {
+    color: red;
+    text-align: right;
+    text-decoration: underline;
+}
